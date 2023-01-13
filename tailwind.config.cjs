@@ -9,10 +9,9 @@ module.exports = {
           '50%': { left:"0", width:"100%" },
           '100%': { left:"100%", width:"0%" },
         },
-        redactedReverse: {
-          '100%': { left:"0", width:"0%" },
-          '50%': { left:"0", width:"100%" },
-          '0%': { left:"100%", width:"0%" },
+        fade: {
+          '0%': { opacity:"0" },
+          '100%': { opacity:"1" },
         }
       },
       colors: {
