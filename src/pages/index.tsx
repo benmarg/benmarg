@@ -143,7 +143,6 @@ const Home: NextPage = () => {
               className="ml-[50vh] h-[35vh]"
               alt="laptop"
             />
-            {/* <img src="laptop3.jpg" className="ml-8 h-[25vh]" alt="laptop" /> */}
           </div>
         </div>
       </main>
